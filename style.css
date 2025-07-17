@@ -301,7 +301,7 @@ body {
 
 /* order confirm */
 #orderModal{
-    display: none;
+    display: none ;
 }
 .modal {
     display: none; 
