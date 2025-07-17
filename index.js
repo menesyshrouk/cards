@@ -204,3 +204,4 @@ document.querySelectorAll('.product-card').forEach(card => {
     const id = parseInt(card.dataset.id);
     updateProductCardQuantity(id);
 });
+>>>>>>> f3c1848616564e54491724322e7b4cddd1a78daf
