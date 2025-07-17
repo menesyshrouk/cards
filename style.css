@@ -300,6 +300,9 @@ body {
 }
 
 /* order confirm */
+#orderModal{
+    display: none;
+}
 .modal {
     display: none; 
     position: fixed;
